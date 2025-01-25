@@ -56,7 +56,7 @@ SmartRetail demonstrates how data-driven insights can transform retail marketing
 - Cluster 3: Family-oriented, middle-income consumers with a preference for online shopping.
 By tailoring marketing campaigns to these segments, businesses can improve customer satisfaction, reduce wasteful spending, and achieve higher ROI. Future work could expand geographic coverage, incorporate additional features like lifestyle data, and account for dynamic customer behavior over time.
 
-For further details, refer to the [Final Project]()
+For further details, refer to the [Final Project](Final-Project-Report.pdf)
 
 
 
