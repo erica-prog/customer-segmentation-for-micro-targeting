@@ -1,1 +1,1 @@
-# customer-segmentation-for-micro-targeting
+# SmartRetail: Customer Segmentation for Micro-Targeting
